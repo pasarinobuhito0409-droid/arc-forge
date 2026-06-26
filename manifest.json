@@ -1,0 +1,19 @@
+{
+  "name": "ARC FORGE — 溶接の3D教科書",
+  "short_name": "ARC FORGE",
+  "description": "触って回して溶接の原理を学ぶ3Dラボ",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070a10",
+  "theme_color": "#070a10",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
