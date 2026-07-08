@@ -1,12 +1,12 @@
 {
-  "name": "ARC FORGE — 溶接の3D教科書",
+  "name": "ARC FORGE ── 溶接 朝15分道場",
   "short_name": "ARC FORGE",
-  "description": "触って回して溶接の原理を学ぶ3Dラボ",
-  "start_url": ".",
-  "scope": ".",
+  "description": "触って選んで覚える、溶接の3D教科書",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#070a10",
+  "background_color": "#05080d",
   "theme_color": "#070a10",
   "icons": [
     {
